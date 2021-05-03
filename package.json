@@ -1,0 +1,23 @@
+{
+  "name": "@vukbgit/gordion-di-container",
+  "version": "1.0.0",
+  "description": "gordion DI container",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vukbgit/gordion-di-container.git"
+  },
+  "keywords": [
+    "gordion",
+    "di-container"
+  ],
+  "author": "vuk <info@vuk.bg.it> (https://vuk.bg.it)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vukbgit/gordion-di-container/issues"
+  },
+  "homepage": "https://github.com/vukbgit/gordion-di-container#readme"
+}
